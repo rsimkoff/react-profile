@@ -90,9 +90,9 @@ function Navbar() {
           <div class="card">
             <img src="images/my work.jpg" class="card-img-top" alt="..."/>
             <div class="card-body">
-              <h5 class="card-title">HTML and CSS</h5>
+              <h5 class="card-title">HTML Website Building</h5>
               <p class="card-text">Building and debugging website organizing</p>
-              <a href="https://markhamtrenton.github.io/-01-HTML-CSS-Git/" class="btn btn-dark">Preview</a>
+              <a href="https://rsimkoff.github.io/professional-portfolio-website/" class="btn btn-dark">Preview</a>
             </div>
           </div>
         </div>
@@ -100,9 +100,9 @@ function Navbar() {
           <div class="card">
             <img src="images/calender1.jpg" class="card-img-top" alt="..."/>
             <div class="card-body">
-              <h5 class="card-title">Calender/Scheduler App</h5>
-              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-              <a href="https://markhamtrenton.github.io/Calender-Application/" class="btn btn-dark">Preview</a>
+              <h5 class="card-title">E-Commerce Back-End App</h5>
+              <p class="card-text">Back-End Application seeding data for an E=Commerce site.</p>
+              <a href="https://github.com/rsimkoff/e-commerce-back-end" class="btn btn-dark">Preview</a>
             </div>
           </div>
         </div>
@@ -111,11 +111,11 @@ function Navbar() {
         <div class="row">
           <div class="col-sm-6">
             <div class="card">
-              <img src="images/passwordgenerator1.jpg" class="card-img-top" alt="..."/>
+              <img src="public/images/password.png" class="card-img-top" alt="..."/>
               <div class="card-body">
                 <h5 class="card-title">Password Generator App</h5>
                 <p class="card-text">Generating random passwords using JS</p>
-                <a href="https://markhamtrenton.github.io/3-Password-Generator/index.html" class="btn btn-dark">Preview</a>
+                <a href="https://rsimkoff.github.io/Password_Generator_Final/" class="btn btn-dark">Preview</a>
               </div>
             </div>
           </div>
@@ -125,14 +125,11 @@ function Navbar() {
               <div class="card-body">
                 <h5 class="card-title">Weather App</h5>
                 <p class="card-text">Using JS and a weather api we can get the weather of any city</p>
-                <a href="https://markhamtrenton.github.io/Weather-App/" class="btn btn-dark">Preview</a>
+                <a href="https://rsimkoff.github.io/weather-dashboard/" class="btn btn-dark">Preview</a>
               </div>
             </div>
           </div>
         </div>
-
-
-
         <div class="row">
           <div class="col-sm-6">
             <div class="card">
@@ -150,7 +147,7 @@ function Navbar() {
               <div class="card-body">
                 <h5 class="card-title">Coding Quiz App</h5>
                 <p class="card-text">Creating a Coding Quiz App with timer</p>
-                <a href="https://markhamtrenton.github.io/04-Web-APIs-Code-Quiz/" class="btn btn-dark">Preview</a>
+                <a href="https://rsimkoff.github.io/Code-Quiz-JavaScriptFundementals/" class="btn btn-dark">Preview</a>
               </div>
             </div>
           </div>
@@ -166,11 +163,9 @@ function Navbar() {
                   We thought it would be entertaining to reverse engineer the forum concept
                   We wanted to have an aesthetic that evoked that era - so no Bootstrap! Using Spectre, you can actively look at different threads, create different threads as well as comment on any particular thread.
                   Spectre also gives you the ability to create an account with the login/logout feature. 
-                  
                    </p>
                 <a href="https://github.com/BrenniusXIV/forum007" class="btn btn-dark">Preview</a>
                 <a href="https://forum-007.herokuapp.com/" class="btn btn-dark">Heroku Deploy</a>
-
               </div>
             </div>
           </div>
@@ -180,8 +175,7 @@ function Navbar() {
               <div class="card-body">
                 <h5 class="card-title">MySQL: Employee Tracker</h5>
                 <p class="card-text">Creating a solution for managing a company's employees using node, inquirer, and MySQL.</p>
-                <a href="https://github.com/markhamtrenton/12-MySQL-Homework-Employee-Tracker" class="btn btn-dark">Preview</a>
-                <a href="https://www.youtube.com/watch?v=XhvF34RIq6M" class="btn btn-dark">Youtube</a>
+                <a href="https://github.com/rsimkoff/employee-tracker" class="btn btn-dark">Preview</a>
               </div>
             </div>
           </div>
@@ -194,8 +188,7 @@ function Navbar() {
               <div class="card-body">
                 <h5 class="card-title">Object-Oriented Programming: Team Profile Generator</h5>
                 <p class="card-text">The Team Profile Generator where a command line is used to write in certain details to build our team that is then generated into an html webpage that displays summaries for each person. </p>
-                <a href="https://github.com/markhamtrenton/10-Object-Oriented-Programming" class="btn btn-dark">Preview</a>
-                <a href="https://www.youtube.com/watch?v=-vvm8CSBazo" class="btn btn-dark">Youtube</a>
+                <a href="https://github.com/rsimkoff/team-profile-generator" class="btn btn-dark">Preview</a>
               </div>
             </div>
           </div>
@@ -205,9 +198,7 @@ function Navbar() {
               <div class="card-body">
                 <h5 class="card-title">ReadMe Generator</h5>
                 <p class="card-text">Creating a ReadMe Generator (Node JS)</p>
-                <a href="https://github.com/markhamtrenton/09-Nodejs-Homework" class="btn btn-dark">Preview</a>
-                <a href="https://www.youtube.com/watch?v=itZg1YlKMyA" class="btn btn-dark">Youtube</a>
-                
+                <a href="https://github.com/rsimkoff/readme.md-generator" class="btn btn-dark">Preview</a>
               </div>
             </div>
           </div>
