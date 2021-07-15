@@ -40,12 +40,11 @@ function Navbar() {
      {/* <!-- navigation end -->
      <!-- background start --> */}
      <div class="background">
-       <img src="images/background2.jpg" class="img-fluid" alt="background image"/>
+       <img src="./images/newyork.png" class="img-fluid" alt="background image"/>
      </div>
      <div class="heading-content text-center">
-       <h5>Hello, I'm</h5>
-       <h1>Trenton Markham</h1>
-       <p>AND THIS IS MY Portfolio</p>
+        <h1>Ryan Simkoff</h1>
+        <p>Development Portfolio</p>
      </div>
     
 
@@ -62,14 +61,19 @@ function Navbar() {
      </div>
      <div class="row">
        <div class="col-lg-6 col-md-6 col-12">  
-         <img src="images/profilefinal.jpg" class="img-fluid" alt="profile pic"/>
+         <img src="./images/IMG_1817.jpg" class="img-fluid" alt="profile pic"/>
        </div>
 
      <div class="col-lg-6 col-md-6 col-12">
-       <h2>Want to Know Me?</h2>
+       <h2>Background Description</h2>
        <hr/>
-       <p class="display-3">I am a fullstack developer from the Atlanta, Ga area. I have a passion for building and learning. I am experienced in html, css, bootstrap, and javascript. I have a Passion for software development 
-         and building things with it. I bring strong skills to the table such as team-building, communication, debugging.  </p>
+       <p className="display-3">I’m currently working as a Staff Accountant for Fifth Group Restaurants, based in Atlanta. 
+            I graduated from Georgia State University in 2019 with an undergraduate degree in Finance. 
+            I have enjoyed my career in Finance thus far, but I have always had an additional interest in computer science and Tech. 
+            I had some exposure to Computer Science in college when I took introductory programming courses in Java and JavaScript. 
+            I am currently enrolled in Georgia Tech’s Coding and Web Development bootcamp. 
+            As a candidate I offer a full stack of technologies including experience with multiple programming languages, frameworks, supporting technology packages and background Algorithmic knowledge needed for best programming practices.
+        </p>
 
      </div>
 
@@ -78,7 +82,7 @@ function Navbar() {
      <!-- my work start --> */}
      <div id="mywork" class="container mt-3 mb-5">
       <div class="post-heading text-center" >
-        <h3 class="display-4 font-weight-bold" >MY Work</h3>
+        <h3 class="display-4 font-weight-bold" >Completed Projects</h3>
         <hr class="w-50 mx-auto pb-5"/>
       </div>
       <div class="row">
@@ -86,7 +90,7 @@ function Navbar() {
           <div class="card">
             <img src="images/my work.jpg" class="card-img-top" alt="..."/>
             <div class="card-body">
-              <h5 class="card-title">HTML & CSS</h5>
+              <h5 class="card-title">HTML and CSS</h5>
               <p class="card-text">Building and debugging website organizing</p>
               <a href="https://markhamtrenton.github.io/-01-HTML-CSS-Git/" class="btn btn-dark">Preview</a>
             </div>
@@ -234,7 +238,7 @@ function Navbar() {
         <hr class="w-50 mx-auto pb-5"/>
       </div>
       <div class="col-lg-6 col-md-6 col-12">
-        <h2>Email: markhamtrenton@gmail.com</h2>
+        <h2>Email: rsimkoff@gmail.com</h2>
         <hr/>
         
  
@@ -248,7 +252,7 @@ function Navbar() {
     <footer>
         
       <p>
-          Made by Trenton Markham
+          Developed by Ryan Simkoff
       </p>
   </footer>
  {/* <!-- footer end --> */}

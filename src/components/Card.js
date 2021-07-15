@@ -17,7 +17,7 @@ function Card() {
      </div>
      <div className="row">
        <div className="col-lg-6 col-md-6 col-12">  
-         <img src="./images/profilefinal.jpg" className="img-fluid" alt=""/>
+         <img src="./images/IMG_1817.jpg" className="img-fluid" alt=""/>
        </div>
         </div>
      <div className="col-lg-6 col-md-6 col-12"/>
