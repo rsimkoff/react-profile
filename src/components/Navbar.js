@@ -40,7 +40,7 @@ function Navbar() {
      {/* <!-- navigation end -->
      <!-- background start --> */}
      <div class="background">
-       <img src="./images/newyork.png" class="img-fluid" alt="background image"/>
+       <img src="images/newyork.png" class="img-fluid" alt=""/>
      </div>
      <div class="heading-content text-center">
         <h1>Ryan Simkoff</h1>
@@ -88,7 +88,7 @@ function Navbar() {
       <div class="row">
         <div class="col-sm-6">
           <div class="card">
-            <img src="images/my work.jpg" class="card-img-top" alt="..."/>
+            <img src="./images/firsthtmlpage.png" class="card-img-top" alt="..."/>
             <div class="card-body">
               <h5 class="card-title">HTML Website Building</h5>
               <p class="card-text">Building and debugging website organizing</p>
@@ -98,11 +98,11 @@ function Navbar() {
         </div>
         <div class="col-sm-6">
           <div class="card">
-            <img src="images/calender1.jpg" class="card-img-top" alt="..."/>
+            <img src="./images/fitnesstracker.png" class="card-img-top" alt="..."/>
             <div class="card-body">
-              <h5 class="card-title">E-Commerce Back-End App</h5>
-              <p class="card-text">Back-End Application seeding data for an E=Commerce site.</p>
-              <a href="https://github.com/rsimkoff/e-commerce-back-end" class="btn btn-dark">Preview</a>
+              <h5 class="card-title">Fitness Tracker App</h5>
+              <p class="card-text">Fitness Tracker deployed on Heroku using Express and Node.js</p>
+              <a href="https://fitness-tracker-rsimkoff.herokuapp.com" class="btn btn-dark">Preview</a>
             </div>
           </div>
         </div>
@@ -111,7 +111,7 @@ function Navbar() {
         <div class="row">
           <div class="col-sm-6">
             <div class="card">
-              <img src="public/images/password.png" class="card-img-top" alt="..."/>
+              <img src="./images/password.png" class="card-img-top" alt="..."/>
               <div class="card-body">
                 <h5 class="card-title">Password Generator App</h5>
                 <p class="card-text">Generating random passwords using JS</p>
@@ -121,7 +121,7 @@ function Navbar() {
           </div>
           <div class="col-sm-6">
             <div class="card">
-              <img src="images/weatherapp.jpg" class="card-img-top" alt="..."/>
+              <img src="./images/weather.png" class="card-img-top" alt="..."/>
               <div class="card-body">
                 <h5 class="card-title">Weather App</h5>
                 <p class="card-text">Using JS and a weather api we can get the weather of any city</p>
@@ -133,7 +133,7 @@ function Navbar() {
         <div class="row">
           <div class="col-sm-6">
             <div class="card">
-              <img src="images/OddJobsscreenshot.jpg" class="card-img-top" alt="..."/>
+              <img src="./images/oddjobs.png" class="card-img-top" alt="..."/>
               <div class="card-body">
                 <h5 class="card-title">Odd Jobs App</h5>
                 <p class="card-text">As a construction or renovation type company you can make bids on potential client based projects. The folowing was used APIs JS HTML CSS Jquery Bootstrap Database </p>
@@ -143,7 +143,7 @@ function Navbar() {
           </div>
           <div class="col-sm-6">
             <div class="card">
-              <img src="images/quizzapp2.jpg" class="card-img-top" alt="..."/>
+              <img src="./images/quiz.png" class="card-img-top" alt="..."/>
               <div class="card-body">
                 <h5 class="card-title">Coding Quiz App</h5>
                 <p class="card-text">Creating a Coding Quiz App with timer</p>
@@ -156,7 +156,7 @@ function Navbar() {
         <div class="row">
           <div class="col-sm-6">
             <div class="card">
-              <img src="images\Project2Forum.jpg" class="card-img-top" alt="..."/>
+              <img src="./images/forum.png" class="card-img-top" alt="..."/>
               <div class="card-body">
                 <h5 class="card-title">Project 2 "Forum App"</h5>
                 <p class="card-text">We missed forums of the early-to-mid ‘00s
@@ -171,7 +171,7 @@ function Navbar() {
           </div>
           <div class="col-sm-6">
             <div class="card">
-              <img src="images/EmployeeManagementSystem.jpg" class="card-img-top" alt="..."/>
+              <img src="./images/employee-tracker.png" class="card-img-top" alt="..."/>
               <div class="card-body">
                 <h5 class="card-title">MySQL: Employee Tracker</h5>
                 <p class="card-text">Creating a solution for managing a company's employees using node, inquirer, and MySQL.</p>
@@ -184,7 +184,7 @@ function Navbar() {
         <div class="row">
           <div class="col-sm-6">
             <div class="card">
-              <img src="images/TeamProfileGenerator.jpg" class="card-img-top" alt="..."/>
+              <img src="./images/profilegen.png" class="card-img-top" alt="..."/>
               <div class="card-body">
                 <h5 class="card-title">Object-Oriented Programming: Team Profile Generator</h5>
                 <p class="card-text">The Team Profile Generator where a command line is used to write in certain details to build our team that is then generated into an html webpage that displays summaries for each person. </p>
@@ -194,7 +194,7 @@ function Navbar() {
           </div>
           <div class="col-sm-6">
             <div class="card">
-              <img src="images/readmegeneratorscreenshot.jpg" class="card-img-top" alt=""/>
+              <img src="./images/readmegen.png" class="card-img-top" alt=""/>
               <div class="card-body">
                 <h5 class="card-title">ReadMe Generator</h5>
                 <p class="card-text">Creating a ReadMe Generator (Node JS)</p>

@@ -59,7 +59,7 @@ padding-left: 20px;
     .heading-content h1{
         font-size: 5em;
         font-weight: bolder;
-        color: dimgray;
+        color: whitesmoke;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         
         }
@@ -68,7 +68,7 @@ padding-left: 20px;
             font-size: 3em;
             text-transform: uppercase;
             font-weight: lighter;
-            color: dimgray;
+            color: whitesmoke;
             word-spacing: 5px;
             letter-spacing: 2px;
             font-family: Verdana, Geneva, Tahoma, sans-serif;
